@@ -27,15 +27,15 @@ npm install
 - Create a `.env` file in the root directory.
 - Add your API key in the `.env` file:
 ```sh
-REACT_APP_NEWS_API_KEY=your_api_key_here
+VITE_API_KEY=your_api_key_here
 ```
 - Replace `your_api_key_here` with your actual API key.
 
 ### 4. Run the Application
 ```sh
-npm start
+npm run dev
 ```
-The application will start on `http://localhost:3000/` by default.
+The application will start on `http://localhost:5173/` by default.
 
 ## Contributing
 Feel free to fork this repository and contribute. Open issues and pull requests are welcome!
