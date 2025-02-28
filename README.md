@@ -41,5 +41,5 @@ The application will start on `http://localhost:5173/` by default.
 Feel free to fork this repository and contribute. Open issues and pull requests are welcome!
 
 ---
-Developed by [Vaibhav Soni](https://github.com/vaibhav-soni74) 🚀
+Developed by [Vaibhav Soni](https://github.com/sonivaibhav-git) 🚀
 
